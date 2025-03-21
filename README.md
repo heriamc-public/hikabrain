@@ -1,2 +1,2 @@
-# hikabrain
-HeriaMC: Hikabrain
+# Hikabrain
+Heria Hikabrain
